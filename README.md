@@ -1,2 +1,2 @@
-# .github
-X.app GitHub Organization-wide files
+# X.app
+All-in-One Extension App
