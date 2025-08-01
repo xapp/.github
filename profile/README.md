@@ -1,4 +1,5 @@
 ![Works with iOS](https://img.shields.io/badge/Works_with-iOS-blue?style=flat-square)
+![Works with iPadOS](https://img.shields.io/badge/Works_with-iPadOS-blue?style=flat-square)
 ![Works with watchOS](https://img.shields.io/badge/Works_with-watchOS-blue?style=flat-square)
 ![Works with iMessage](https://img.shields.io/badge/Works_with-iMessage-blue?style=flat-square)
 
