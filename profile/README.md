@@ -5,5 +5,7 @@
 ![Works with macOS](https://img.shields.io/badge/Works_with-macOS-blue?style=flat-square)
 ![Works with tvOS](https://img.shields.io/badge/Works_with-tvOS-blue?style=flat-square)
 ![Works with visionOS](https://img.shields.io/badge/Works_with-visionOS-blue?style=flat-square)
+![Works with Chrome](https://img.shields.io/badge/Works_with-Chrome-blue?style=flat-square)
+![Works with Edge](https://img.shields.io/badge/Works_with-Edge-blue?style=flat-square)
 
 [![EXTENSION.app](https://github.com/xapp/.github/blob/main/profile/banner.png)](https://extension.app)
